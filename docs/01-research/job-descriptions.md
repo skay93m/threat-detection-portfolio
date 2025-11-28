@@ -203,7 +203,7 @@ Understanding these frameworks is essential for SOC operations. This lab will al
 - **SIEM Platforms:** Microsoft Sentinel, Splunk, Wazuh, Elastic Stack
 - **Vulnerability Scanning:** Tenable Nessus, OpenVAS
 - **Log Analysis & Collection:** Logstash, Fluentd, Splunk Universal Forwarder
-- **Endpoint Detection:** Sysmon, EDR platforms (LimaCharlie, Crowdstrike, etc.)
+- **Endpoint Detection:** Sysmon, EDR platforms (LimaCharlie, CrowdStrike, etc.)
 - **IDS/IPS:** Suricata, Snort
 
 ---
