@@ -42,6 +42,22 @@ This is a *capability lab*, not a tutorial repository. Each section documents re
 3. **For what I've learned:** Read [docs/04-results/](docs/04-results/)
 4. **For published writing:** See [docs/05-blog-posts/published/](docs/05-blog-posts/published/)
 
+## Daily Log System
+
+Each lab session is documented using GitHub Issues and daily log files:
+
+1. **Create a Lab Session Issue** using the [Lab Session template](.github/ISSUE_TEMPLATE/lab-session.md)
+   - Title: `Lab Session: YYYY-MM-DD`
+   - Fills out: Overview, What I Did, What I Learned, Blockers, Next Steps, Evidence
+
+2. **Link to Day-Log File** in the issue
+   - Detailed work log: `docs/03-implementation/day-logs/YYYY-MM-DD.md`
+   - Contains: Chronological notes, commands run, screenshots, configuration changes
+
+3. **Result:** Issue serves as weekly summary; day-log provides detailed reference
+
+See [INSTRUCTIONS-TO-SELF.md](docs/00-meta/INSTRUCTIONS-TO-SELF.md) for detailed explanation of this workflow.
+
 ## Tools & Environment
 
 - **SIEM:** TBD
