@@ -50,7 +50,7 @@ Understanding these frameworks is essential for SOC operations. This lab will al
 - Comprehensive matrix of adversary tactics and techniques based on real-world observations
 - Organises attack patterns by: Initial Access → Execution → Persistence → Privilege Escalation → Defense Evasion → Credential Access → Discovery → Lateral Movement → Collection → Command & Control → Exfiltration → Impact
 - Used by defenders to build detection rules and response procedures
-- Industry standard for threat modeling and attack simulation
+- Industry standard for threat modelling and attack simulation
 
 **Relevance to SOC Lab:** This lab tests detection of common MITRE ATT&CK techniques (SSH brute-force = Initial Access, command execution = Execution, and so on). Detection rules map directly to specific techniques.
 
