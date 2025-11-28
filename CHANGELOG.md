@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+
 - Initial repo structure setup
 - Directory structure for research, design, implementation, results, and blog posts
 - Meta documentation: INSTRUCTIONS-TO-SELF.md, INSTRUCTIONS-TO-CLAUDE.md, WRITING-STYLE-GUIDE.md, CODING-STYLE-GUIDE.md, WORKFLOW.md
@@ -17,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - README.md with overview and quick navigation
 
 ### Changed
+
 - Refined documentation language to reflect Day 0 baseline and authentic work
 - Updated writing style guide to emphasize clear technical communication over job market framing
 - Clarified blog post workflow: researcher provides points with citations, author writes narrative
