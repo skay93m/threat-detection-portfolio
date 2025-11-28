@@ -147,7 +147,7 @@ Understanding these frameworks is essential for SOC operations. This lab will al
 
 - Understand vulnerability severity ratings (CVSS)
 - Interpret vulnerability scan results
-- Prioritize vulnerabilities for remediation
+- Prioritise vulnerabilities for remediation
 - Communicate vulnerability findings to stakeholders
 - Understand difference between active scanning and passive assessment
 
