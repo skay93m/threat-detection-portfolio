@@ -7,7 +7,7 @@ repos:
       - id: check-yaml
       - id: check-merge-conflict
       - id: check-added-large-files
-        args: ["--maxkb=5120", "--enforce-all", "--exclude=assets/"]
+        args: ["--maxkb=5120", "--exclude=(^|/)assets/"]
 
 # Optionally run markdown checks (requires node or the tool's runtime if added later)
 # - repo: https://github.com/markdownlint/markdownlint
