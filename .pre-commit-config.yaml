@@ -1,0 +1,18 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    # Pin to the exact commit for v4.5.0 to ensure reproducible hooks.
+    # When upgrading, update this SHA after reviewing the release notes and changes.
+    rev: c4a0b883114b00d8d76b479c820ce7950211c99b
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-merge-conflict
+      - id: check-added-large-files
+        args: ["--maxkb=5120", "--exclude=(^|/)assets/"]
+
+# Optionally run markdown checks (requires node or the tool's runtime if added later)
+# - repo: https://github.com/markdownlint/markdownlint
+#   rev: v0.0.0
+#   hooks:
+#     - id: markdownlint
