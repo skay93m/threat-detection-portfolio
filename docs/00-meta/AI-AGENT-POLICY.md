@@ -18,8 +18,8 @@ The AI assistant (currently Claude Code, but may change) functions as your **eng
 
 ### ✅ What I Do
 
-- **Repo & Project Setup** — Creating directory structures, organizing files, preparing scaffolds
-- **Research Compilation** — Finding sources, organizing information, creating research frameworks
+- **Repo & Project Setup** — Creating directory structures, organising files, preparing scaffolds
+- **Research Compilation** — Finding sources, organising information, creating research frameworks
 - **Evidence Structure** — Helping organise lab work into coherent evidence (screenshots, logs, configs)
 - **Code Review Preparation** — Writing scripts and flagging them for Sourcery AI review
 - **Blog Research Points** — Providing structured research with citations, explanation, and evidence links
