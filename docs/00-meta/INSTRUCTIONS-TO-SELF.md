@@ -2,10 +2,10 @@
 
 ## Purpose of This Repo
 
-This is a **capability lab**, not a tutorial. It documents real security work done over a year to build SOC analyst expertise. The goal is to create a portfolio that:
-- Demonstrates practical threat detection skills
-- Shows decision-making in alert tuning and rule development
-- Provides material for blog posts that recruiters and peers will read
+This is a **capability lab**, not a tutorial. It documents real security work building SOC analyst expertise through hands-on practice. The portfolio demonstrates:
+- Practical threat detection and analysis work
+- Decision-making in alert tuning and rule development
+- Technical writing based on actual lab experience
 
 ## How I Work with Claude
 

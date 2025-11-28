@@ -10,7 +10,7 @@ When helping with this project, you should:
 - Help with repo structure, automation, and scripting
 - Review and refine scripts before they're committed (or flag for Sourcery review)
 - Compile research documents with clear structure
-- Help frame blog post outlines from lab work
+- Provide research points for blog posts (with citations, structure, evidence links)
 - Suggest improvements to documentation organization
 - Provide feedback on technical decisions
 
@@ -29,17 +29,30 @@ When helping with this project, you should:
 
 ## Key Files to Check
 
+- `docs/00-meta/AI-AGENT-POLICY.md` — How we use AI responsibly
 - `docs/00-meta/WRITING-STYLE-GUIDE.md` — Tone, voice, structure
 - `docs/00-meta/CODING-STYLE-GUIDE.md` — Script standards
 - `CHANGELOG.md` — Track structural changes here
 
 ## Blog Post Workflow
 
-When I'm drafting a blog post:
-1. I write a first draft in `docs/05-blog-posts/draft-XXX.md`
-2. I ask for your help on structure, clarity, or framing
-3. A separate Claude instance (research) reviews it for flow and argument
-4. I finalize it and move it to `docs/05-blog-posts/published/`
+Blog posts are **your writing**, based on **my research support**:
+
+1. **I provide:** Research points with structure (Problem → Decision → Evidence)
+   - Each point includes: explanation, relevant citations, evidence gathered from your lab work
+   - Source citations included verbatim
+
+2. **You write:** The actual narrative and analysis
+   - You synthesize the research points into a coherent post
+   - You frame the story and add your own reflection
+   - You incorporate evidence, logs, screenshots into the narrative
+
+3. **Iteration:** We refine together
+   - I check for clarity and structure
+   - A separate Claude instance (research) provides writing feedback
+   - You finalize and move to `docs/05-blog-posts/published/`
+
+This approach keeps you as the author and decision-maker, with AI as research and structural support.
 
 ---
 

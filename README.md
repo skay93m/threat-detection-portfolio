@@ -4,10 +4,10 @@ A structured capability lab for developing SOC analyst skills through practical 
 
 ## Overview
 
-This portfolio documents a year-long journey building hands-on expertise in:
+This portfolio documents hands-on work building expertise in:
 - **Threat Detection & Response:** Designing SIEM rules, hunting for anomalies, investigating alerts
 - **Security Operations:** Building detection pipelines, managing false positives, tuning alerts
-- **Analysis & Writing:** Converting lab work into clear, recruiter-friendly blog posts
+- **Analysis & Writing:** Converting lab work into clear, well-structured technical writing
 
 This is a *capability lab*, not a tutorial repository. Each section documents real work done, decisions made, and evidence captured.
 
@@ -51,7 +51,7 @@ This is a *capability lab*, not a tutorial repository. Each section documents re
 
 ## Status
 
-🔄 **Year 1 - Foundation & Core Skills** (In Progress)
+🔄 **Foundation & Core Skills** (In Progress)
 
 - [x] Repo structure
 - [ ] Research & requirements mapping
