@@ -48,7 +48,7 @@ Understanding these frameworks is essential for SOC operations. This lab will al
 ### MITRE ATT&CK Framework
 
 - Comprehensive matrix of adversary tactics and techniques based on real-world observations
-- Organizes attack patterns by: Initial Access → Execution → Persistence → Privilege Escalation → Defense Evasion → Credential Access → Discovery → Lateral Movement → Collection → Command & Control → Exfiltration → Impact
+- Organises attack patterns by: Initial Access → Execution → Persistence → Privilege Escalation → Defense Evasion → Credential Access → Discovery → Lateral Movement → Collection → Command & Control → Exfiltration → Impact
 - Used by defenders to build detection rules and response procedures
 - Industry standard for threat modeling and attack simulation
 
