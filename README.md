@@ -48,7 +48,7 @@ Each lab session is documented using GitHub Issues and daily log files:
 
 1. **Create a Lab Session Issue** using the [Lab Session template](.github/ISSUE_TEMPLATE/lab-session.md)
    - Title: `Lab Session: YYYY-MM-DD`
-   - Fills out: Overview, What I Did, What I Learned, Blockers, Next Steps, Evidence
+   - Fill out: Overview, What I Did, What I Learned, Blockers, Next Steps, Evidence
 
 2. **Link to Day-Log File** in the issue
    - Detailed work log: `docs/03-implementation/day-logs/YYYY-MM-DD.md`
