@@ -39,10 +39,11 @@ Config files in `/config/` should be:
 - **Sanitised** — No real IPs, hostnames, API keys, or passwords
 - **Documented** — Comments explaining each section
 - **Templated** — Use placeholders like `CHANGEME_SERVER_IP` if needed
+- **Lab-specific** — Add actual configs during lab setup, not as pre-seeded templates
 
-Example:
+Example structure (add during lab setup):
 ```yaml
-# vm-specs.yml - DO NOT COMMIT REAL CREDENTIALS
+# environment-config.yml - DO NOT COMMIT REAL CREDENTIALS
 siem:
   hostname: "CHANGEME_SIEM_HOSTNAME"
   port: 8089

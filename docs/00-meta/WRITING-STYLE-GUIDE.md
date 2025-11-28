@@ -2,13 +2,13 @@
 
 ## Blog Tone & Voice
 
-These are posts for **recruiters, peers, and people interested in security careers**. Not tutorials.
+These are technical posts demonstrating practical security work. Not tutorials or introductory guides.
 
 ### Principles
 - **Narrative-driven:** Tell the story of what you did and why
 - **Clear over clever:** Explain decisions, not just outcomes
-- **Recruiter-friendly:** Show thought process, problem-solving, learning
-- **Technical but accessible:** Assume reader knows security basics, not deep expertise
+- **Thoughtful:** Show your reasoning, problem-solving approach, and learning
+- **Technical but accessible:** Assume the reader knows security basics and explain any domain-specific choices
 
 ### Structure (Problem → Decision → Evidence)
 
@@ -57,4 +57,4 @@ These are posts for **recruiters, peers, and people interested in security caree
 
 ---
 
-**Goal:** Write so that a senior engineer or hiring manager reads your post and understands exactly what you did, why it mattered, and what you learned.
+**Goal:** Write so that anyone reading understands exactly what you did, why you made those decisions, and what you learned. The focus is on clear technical communication and honest reflection on your work.

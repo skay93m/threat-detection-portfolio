@@ -4,10 +4,10 @@ A structured capability lab for developing SOC analyst skills through practical 
 
 ## Overview
 
-This portfolio documents a year-long journey building hands-on expertise in:
+This portfolio documents hands-on work building expertise in:
 - **Threat Detection & Response:** Designing SIEM rules, hunting for anomalies, investigating alerts
 - **Security Operations:** Building detection pipelines, managing false positives, tuning alerts
-- **Analysis & Writing:** Converting lab work into clear, recruiter-friendly blog posts
+- **Analysis & Writing:** Converting lab work into clear, well-structured technical writing
 
 This is a *capability lab*, not a tutorial repository. Each section documents real work done, decisions made, and evidence captured.
 
@@ -22,7 +22,7 @@ This is a *capability lab*, not a tutorial repository. Each section documents re
 ├── 04-results/       → Test cases, evidence, metrics, lessons learned
 └── 05-blog-posts/    → Draft and published blog posts
 
-📁 config/            → VM specs, firewall rules, SIEM configurations
+📁 config/            → Sanitised environment configs and rules (added during lab setup)
 📁 scripts/           → Lab automation, analysis tools
 📁 assets/            → Diagrams, screenshots
 ```
@@ -48,10 +48,11 @@ This is a *capability lab*, not a tutorial repository. Each section documents re
 - **OS:** Windows/Linux (guest), macOS (host)
 - **Scripting:** Python, Bash
 - **Writing & Publishing:** Markdown + Substack
+- **AI Assistance:** Transparent use of AI tools for research, structure, and automation (see [AI-AGENT-POLICY](docs/00-meta/AI-AGENT-POLICY.md))
 
 ## Status
 
-🔄 **Year 1 - Foundation & Core Skills** (In Progress)
+🔄 **Foundation & Core Skills** (In Progress)
 
 - [x] Repo structure
 - [ ] Research & requirements mapping
