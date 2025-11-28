@@ -11,7 +11,8 @@ repos:
       - id: check-yaml
       - id: check-merge-conflict
       - id: check-added-large-files
-        args: ["--maxkb=5120", "--exclude=(^|/)assets/"]
+        args: ["--maxkb=5120"]
+        exclude: ^assets/
         # Excludes assets/ directory which contains screenshots, diagrams, and other large binaries
         # generated during lab work. Adjust the exclude pattern if additional directories
         # are added for large binary artifacts (e.g., videos, datasets).

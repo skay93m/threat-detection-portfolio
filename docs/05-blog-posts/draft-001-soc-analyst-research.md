@@ -1,1 +1,0 @@
-# Draft: SOC Analyst Research
