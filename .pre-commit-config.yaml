@@ -1,3 +1,5 @@
+minimum_pre_commit_version: '2.15.0'
+
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     # Pin to the exact commit for v4.5.0 to ensure reproducible hooks.
@@ -10,6 +12,9 @@ repos:
       - id: check-merge-conflict
       - id: check-added-large-files
         args: ["--maxkb=5120", "--exclude=(^|/)assets/"]
+        # Excludes assets/ directory which contains screenshots, diagrams, and other large binaries
+        # generated during lab work. Adjust the exclude pattern if additional directories
+        # are added for large binary artifacts (e.g., videos, datasets).
 
 # Optionally run markdown checks (requires node or the tool's runtime if added later)
 # - repo: https://github.com/markdownlint/markdownlint
