@@ -178,7 +178,7 @@ Understanding these frameworks is essential for SOC operations. This lab will al
 ### System & Network Knowledge
 
 - Understand Windows and Linux operating system basics
-- Recognize normal vs. abnormal system behavior
+- Recognise normal vs. abnormal system behaviour
 - Understand network communication basics (ports, protocols, traffic patterns)
 - Identify indicators of compromise specific to different systems
 - Understand process execution and file system activity
