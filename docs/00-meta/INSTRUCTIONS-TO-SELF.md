@@ -3,6 +3,7 @@
 ## Purpose of This Repo
 
 This is a **capability lab**, not a tutorial. It documents real security work building SOC analyst expertise through hands-on practice. The portfolio demonstrates:
+
 - Practical threat detection and analysis work
 - Decision-making in alert tuning and rule development
 - Technical writing based on actual lab experience
@@ -10,6 +11,7 @@ This is a **capability lab**, not a tutorial. It documents real security work bu
 ## How I Work with Claude
 
 I use Claude Code as my primary engineering/scripting agent. Claude handles:
+
 - Setting up directory structures and automation
 - Writing and refining scripts
 - Compiling research into structured documents
@@ -32,6 +34,7 @@ All script additions go through Sourcery AI code review before committing.
 ## What Constitutes "Done" for a Session
 
 A lab session is complete when:
+
 - [ ] I have a day-log entry (format: `YYYY-MM-DD.md`)
 - [ ] Evidence is captured (logs, screenshots, configs)
 - [ ] At least one new thing is documented in lessons-learned.md
@@ -39,6 +42,7 @@ A lab session is complete when:
 - [ ] Next steps are clear
 
 If I'm writing a blog post that week, it's done when:
+
 - [ ] First draft is in docs/05-blog-posts/draft-XXX.md
 - [ ] Claude (research) has reviewed it
 - [ ] Final edits are complete and it's ready for publishing
