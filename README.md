@@ -5,6 +5,7 @@ A structured capability lab for developing SOC analyst skills through practical 
 ## Overview
 
 This portfolio documents hands-on work building expertise in:
+
 - **Threat Detection & Response:** Designing SIEM rules, hunting for anomalies, investigating alerts
 - **Security Operations:** Building detection pipelines, managing false positives, tuning alerts
 - **Analysis & Writing:** Converting lab work into clear, well-structured technical writing
@@ -13,7 +14,7 @@ This is a *capability lab*, not a tutorial repository. Each section documents re
 
 ## Structure
 
-```
+```bash
 📁 docs/
 ├── 00-meta/          → How I work, style guides, instructions
 ├── 01-research/      → Job descriptions, literature review, requirements
@@ -44,7 +45,7 @@ This is a *capability lab*, not a tutorial repository. Each section documents re
 ## Tools & Environment
 
 - **SIEM:** TBD
-- **Lab VMs:** VirtualBox
+- **Lab VMs:** TBD
 - **OS:** Windows/Linux (guest), macOS (host)
 - **Scripting:** Python, Bash
 - **Writing & Publishing:** Markdown + Substack
@@ -67,4 +68,4 @@ Personal portfolio — documentation and code shared for educational purposes.
 ---
 
 **Last Updated:** 2025-11-28
-**Blog:** [Link to Substack will go here]
+**Blog:** [Syafiq's Space](https://syafiqsspace.substack.com/)

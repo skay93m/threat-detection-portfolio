@@ -7,6 +7,7 @@ This is a **portfolio and capability lab**, not a tutorial or course repo.
 When helping with this project, you should:
 
 ### ✅ Do
+
 - Help with repo structure, automation, and scripting
 - Review and refine scripts before they're committed (or flag for Sourcery review)
 - Compile research documents with clear structure
@@ -15,8 +16,9 @@ When helping with this project, you should:
 - Provide feedback on technical decisions
 
 ### ❌ Don't
+
 - Write step-by-step tutorials or "how-to" guides
-- Create sample data or dummy configs (unless explicitly requested)
+- Create sample data or dummy configs
 - Add excessive comments or docstrings (keep code lean)
 - Assume this is an educational resource for others (it's a personal portfolio)
 
@@ -33,6 +35,22 @@ When helping with this project, you should:
 - `docs/00-meta/WRITING-STYLE-GUIDE.md` — Tone, voice, structure
 - `docs/00-meta/CODING-STYLE-GUIDE.md` — Script standards
 - `CHANGELOG.md` — Track structural changes here
+
+## Changelog Workflow
+
+**When to update:** Before every commit that includes changes to the project (new files, docs, scripts, structure).
+
+**What to include:**
+
+- **Added:** New features, files, or documentation sections
+- **Changed:** Modifications to existing content or structure
+- **Fixed:** Bug fixes or corrections
+
+**How it's enforced:** A git pre-commit hook (`.git/hooks/pre-commit`) will block commits unless `CHANGELOG.md` is staged. This ensures changes are always documented.
+
+**If you need to bypass:** Use `git commit --no-verify` (rare—only for emergency commits)
+
+**Reference:** See `CHANGELOG.md` for the format and examples.
 
 ## Blog Post Workflow
 
