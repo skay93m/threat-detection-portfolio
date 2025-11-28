@@ -80,7 +80,7 @@ Before committing any work that relies on human skills, consider the following q
 4. Does this work reflect my personal insights and creativity?
 5. Have I consulted other sources or experts to validate the information?
 
-This checklist serves as a reminder to prioritize human skills and judgment in all AI-assisted tasks.
+This checklist serves as a reminder to prioritise human skills and judgment in all AI-assisted tasks.
 
 ## Blog Post Example
 
