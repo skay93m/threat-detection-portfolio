@@ -11,12 +11,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial repo structure setup
 - Directory structure for research, design, implementation, results, and blog posts
 - Meta documentation: INSTRUCTIONS-TO-SELF.md, INSTRUCTIONS-TO-CLAUDE.md, WRITING-STYLE-GUIDE.md, CODING-STYLE-GUIDE.md, WORKFLOW.md
+- AI-AGENT-POLICY.md explaining responsible AI use and role separation
 - Placeholder documentation files for all sections (01-research through 05-blog-posts)
-- Configuration templates: vm-specs.yml, firewall-rules.txt
 - GitHub issue template for lab sessions
 - README.md with overview and quick navigation
 
 ### Changed
+- Refined documentation language to reflect Day 0 baseline and authentic work
+- Updated writing style guide to emphasize clear technical communication over job market framing
+- Clarified blog post workflow: researcher provides points with citations, author writes narrative
+- Removed temporal framing (removed "year-long journey" language)
 
 ### Fixed
 
