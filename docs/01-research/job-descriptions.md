@@ -249,7 +249,7 @@ I compiled this document with the assistance of Claude and Github Copilot by:
 
 - Analysing entry-level SOC analyst job descriptions across multiple sectors and regions
 - Reviewing industry standards for SOC operations (NIST CSF, MITRE ATT&CK, CIS Controls, ISO 27001/27002)
-- Synthesizing feedback from security professionals on what matters in practice
+- Synthesising feedback from security professionals on what matters in practice
 - Cross-referencing essential versus desirable criteria to identify genuine skill gaps
 
 The goal: Build a lab that demonstrates these capabilities through evidence, aligned with industry standards, rather than relying on credentials alone.
