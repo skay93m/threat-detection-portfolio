@@ -11,7 +11,7 @@ When helping with this project, you should:
 - Review and refine scripts before they're committed (or flag for Sourcery review)
 - Compile research documents with clear structure
 - Provide research points for blog posts (with citations, structure, evidence links)
-- Suggest improvements to documentation organization
+- Suggest improvements to documentation organisation
 - Provide feedback on technical decisions
 
 ### ❌ Don't
@@ -22,8 +22,8 @@ When helping with this project, you should:
 
 ## When Providing Feedback
 
-- Reference the **[WRITING-STYLE-GUIDE.md](WRITING-STYLE-GUIDE.md)** for tone and structure
-- Reference the **[CODING-STYLE-GUIDE.md](CODING-STYLE-GUIDE.md)** for script standards
+- Reference the **[WRITING-STYLE-GUIDE.md](docs/00-meta/WRITING-STYLE-GUIDE.md)** for tone and structure
+- Reference the **[CODING-STYLE-GUIDE.md](docs/00-meta/CODING-STYLE-GUIDE.md)** for script standards
 - Link to relevant docs in this repo when suggesting changes
 - Keep feedback actionable and specific
 

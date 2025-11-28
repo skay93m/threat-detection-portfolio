@@ -20,7 +20,7 @@
 
 ### 4. Blog Post (When a Milestone Hits)
 - Start draft: `docs/05-blog-posts/draft-XXX-topic-name.md`
-- Follow [WRITING-STYLE-GUIDE.md](WRITING-STYLE-GUIDE.md)
+- Follow [WRITING-STYLE-GUIDE.md](docs/00-meta/WRITING-STYLE-GUIDE.md)
 - Share with Claude (research) for feedback
 - Refine based on feedback
 - Move to `docs/05-blog-posts/published/` when ready

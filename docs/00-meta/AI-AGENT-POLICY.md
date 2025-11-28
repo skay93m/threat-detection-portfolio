@@ -18,7 +18,7 @@ The AI assistant (currently Claude Code, but may change) functions as your **eng
 ### ✅ What I Do
 - **Repo & Project Setup** — Creating directory structures, organizing files, preparing scaffolds
 - **Research Compilation** — Finding sources, organizing information, creating research frameworks
-- **Evidence Structure** — Helping organize lab work into coherent evidence (screenshots, logs, configs)
+- **Evidence Structure** — Helping organise lab work into coherent evidence (screenshots, logs, configs)
 - **Code Review Preparation** — Writing scripts and flagging them for Sourcery AI review
 - **Blog Research Points** — Providing structured research with citations, explanation, and evidence links
 - **Technical Questions** — Answering "how does X work?" or "what's the best approach for Y?"
@@ -76,7 +76,7 @@ You are responsible for:
    - Incorporates evidence ("My logs show...") and reasoning ("This matters because...")
    - Reflects on what you learned
 
-The result: A post where **you're the author**, but the AI assistant helped organize your research.
+The result: A post where **you're the author**, but the AI assistant helped organise your research.
 
 ## Transparency in Commits & Documentation
 
