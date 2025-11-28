@@ -44,19 +44,12 @@ This is a *capability lab*, not a tutorial repository. Each section documents re
 
 ## Daily Log System
 
-Each lab session is documented using GitHub Issues and daily log files:
+Lab work is tracked using **weekly GitHub issues** (summaries) and **daily log files** (detailed notes):
 
-1. **Create a Lab Session Issue** using the [Lab Session template](.github/ISSUE_TEMPLATE/lab-session.md)
-   - Title: `Lab Session: YYYY-MM-DD`
-   - Fill out: Overview, What I Did, What I Learned, Blockers, Next Steps, Evidence
+- **Lab Session Issue** (per week): Create at week-end using the [Lab Session template](.github/ISSUE_TEMPLATE/lab-session.md) to summarize the week's work and link to day-logs
+- **Day-Log Files** (per day/session): `docs/03-implementation/day-logs/YYYY-MM-DD.md` — Chronological work notes with commands, evidence, blockers
 
-2. **Link to Day-Log File** in the issue
-   - Detailed work log: `docs/03-implementation/day-logs/YYYY-MM-DD.md`
-   - Contains: Chronological notes, commands run, screenshots, configuration changes
-
-3. **Result:** Issue serves as weekly summary; day-log provides detailed reference
-
-See [INSTRUCTIONS-TO-SELF.md](docs/00-meta/INSTRUCTIONS-TO-SELF.md) for detailed explanation of this workflow.
+See [INSTRUCTIONS-TO-SELF.md](docs/00-meta/INSTRUCTIONS-TO-SELF.md) for detailed instructions on creating and maintaining both.
 
 ## Tools & Environment
 

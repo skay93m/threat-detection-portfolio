@@ -25,34 +25,36 @@ All script additions go through Sourcery AI code review before committing.
 
 This portfolio uses a **dual documentation system** to capture lab work:
 
-### Lab Session Issues
+### Lab Session Issues (Per Week)
 
-Each week, create a new GitHub issue using the **Lab Session** template:
+Each week, create one GitHub issue using the **Lab Session** template that summarizes your week's work and links to associated day-log files:
 
 **How to create:**
 1. Go to Issues → New Issue → Select "Lab Session" template
-2. Title: `Lab Session: YYYY-MM-DD` (date you're starting the session)
+2. Title: `Lab Session: YYYY-MM-DD` (start date of your lab week)
 3. Fill out template sections:
    - **Session Overview:** What's the goal for this work?
    - **What I Did:** Key actions, experiments, configurations
    - **What I Learned:** Insights, discoveries, gotchas
    - **Blockers/Challenges:** What went wrong or got stuck?
    - **Next Steps:** What's the follow-up work?
-   - **Evidence/Links:** Links to screenshots, logs, configs, and day-log file
+   - **Evidence/Links:** Links to screenshots, logs, configs, and **day-log files** for the week
 
-**Purpose:** GitHub issue is a _summary view_ of the week's work. Quick reference.
+**Purpose:** GitHub issue is a _summary view_ of the week's work. Quick reference for what got done and key decisions.
 
-### Day-Log Files
+**Timeline:** Create at end of week after you've completed your day-logs.
 
-For detailed, chronological notes of what you did and when:
+### Day-Log Files (Per Day or Work Session)
+
+For detailed, chronological notes of what you did and when. You may have multiple day-log files in a single week (one per working day or per work session):
 
 **File location:** `docs/03-implementation/day-logs/YYYY-MM-DD.md`
 
-**Create when:** You start a significant block of lab work
+**Create when:** You start a significant block of lab work (daily or per session)
 
 **What goes in:**
 - **Chronological notes** of commands run, settings changed, observations
-- **Timestamps** if doing multi-hour sessions
+- **Timestamps** if doing multi-hour sessions (e.g., 10:15 — did X)
 - **Screenshots/evidence filenames** with descriptions
 - **Error messages** and how you resolved them
 - **Configuration snippets** showing what you changed
@@ -63,7 +65,7 @@ For detailed, chronological notes of what you did and when:
 # Lab Work: YYYY-MM-DD
 
 ## Session Goal
-[What are you trying to accomplish?]
+[What are you trying to accomplish today?]
 
 ## Work Log
 
@@ -88,9 +90,10 @@ For detailed, chronological notes of what you did and when:
 ```
 
 **Why separate files?**
-- Issues are public-facing summaries; day-logs are your detailed working notes
-- Day-logs stay in repo for future reference without cluttering GitHub Issues
-- Easier to search and grep through day-logs than GitHub history
+- Weekly issues are public-facing summaries; day-logs are your detailed working notes
+- Day-logs stay in repo for future reference and grep-ability without cluttering GitHub Issues
+- Easier to maintain chronological record across multiple working days
+- Decouples "what you did" (day-logs) from "what you learned" (issue summary)
 
 ## Weekly Workflow
 
