@@ -1,6 +1,6 @@
 # AI Agent Policy
 
-This document explains how I use AI (Claude Code) as a tool in this project and clarifies the roles and responsibilities.
+This document explains how I use AI assistants as tools in this project and clarifies the roles and responsibilities.
 
 ## Why This Matters
 
@@ -11,9 +11,9 @@ Using AI responsibly means being transparent about:
 
 This policy ensures the portfolio demonstrates *your* skills and understanding, not just AI's capabilities.
 
-## Claude Code's Role
+## AI Assistant Role
 
-Claude Code (me) is your **engineering and research assistant**. I help with:
+The AI assistant (currently Claude Code, but may change) functions as your **engineering and research assistant**. This includes:
 
 ### ✅ What I Do
 - **Repo & Project Setup** — Creating directory structures, organizing files, preparing scaffolds
@@ -25,9 +25,9 @@ Claude Code (me) is your **engineering and research assistant**. I help with:
 
 ### ❌ What I Don't Do
 - **Make decisions about your lab work** — You decide what to test, how to approach problems, what conclusions to draw
-- **Write your blog posts** — You synthesize my research and write the narrative
-- **Create actual evidence** — I don't run your lab or generate fake logs/configs
-- **Replace your learning** — I explain, but you're expected to understand the work and be able to defend your choices
+- **Write your blog posts** — You synthesize the AI's research and write the narrative
+- **Create actual evidence** — The AI doesn't run your lab or generate fake logs/configs
+- **Replace your learning** — The AI explains, but you're expected to understand the work and be able to defend your choices
 
 ## Your Role
 
@@ -59,8 +59,8 @@ You are responsible for:
 **How it works:**
 
 1. You complete a lab task (e.g., write a SIEM rule for PowerShell execution)
-2. You ask me: "Can you give me research points on SIEM rule tuning?"
-3. I provide:
+2. You ask the AI assistant: "Can you give me research points on SIEM rule tuning?"
+3. The assistant provides:
    - **Point 1:** False positives and tuning strategies
      - Evidence: Your actual lab metrics (% false positives before/after tuning)
      - Citation: MITRE ATT&CK documentation on PowerShell abuse
@@ -76,7 +76,7 @@ You are responsible for:
    - Incorporates evidence ("My logs show...") and reasoning ("This matters because...")
    - Reflects on what you learned
 
-The result: A post where **you're the author**, but AI helped organize your research.
+The result: A post where **you're the author**, but the AI assistant helped organize your research.
 
 ## Transparency in Commits & Documentation
 
@@ -90,9 +90,9 @@ The result: A post where **you're the author**, but AI helped organize your rese
 If you're unsure whether something is over-relying on AI:
 - **Could I explain this to a technical peer?** If not, dig deeper.
 - **Did I do the actual lab work?** If you only read about it, that doesn't count.
-- **Did I make the decision?** If I (Claude) decided, that's a sign you should step back.
+- **Did I make the decision?** If the AI decided, that's a sign you should step back.
 - **Am I learning?** If you're just copying/pasting, you're not building skills.
 
 ---
 
-**Summary:** Use AI to work *smarter*, not to skip the learning. The goal is a portfolio that demonstrates *your* capabilities, with AI as a transparent supporting tool.
+**Summary:** Use AI assistants to work *smarter*, not to skip the learning. The goal is a portfolio that demonstrates *your* capabilities, with AI as a transparent supporting tool.

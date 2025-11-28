@@ -8,7 +8,7 @@ These are technical posts demonstrating practical security work. Not tutorials o
 - **Narrative-driven:** Tell the story of what you did and why
 - **Clear over clever:** Explain decisions, not just outcomes
 - **Thoughtful:** Show your reasoning, problem-solving approach, and learning
-- **Technical but accessible:** Assume the reader knows security basics and explain any domain-specific choices.
+- **Technical but accessible:** Assume the reader knows security basics and explain any domain-specific choices
 
 ### Structure (Problem → Decision → Evidence)
 

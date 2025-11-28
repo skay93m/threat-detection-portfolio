@@ -22,7 +22,7 @@ This is a *capability lab*, not a tutorial repository. Each section documents re
 ├── 04-results/       → Test cases, evidence, metrics, lessons learned
 └── 05-blog-posts/    → Draft and published blog posts
 
-📁 config/            → VM specs, firewall rules, SIEM configurations
+📁 config/            → Sanitised environment configs and rules (added during lab setup)
 📁 scripts/           → Lab automation, analysis tools
 📁 assets/            → Diagrams, screenshots
 ```
@@ -48,6 +48,7 @@ This is a *capability lab*, not a tutorial repository. Each section documents re
 - **OS:** Windows/Linux (guest), macOS (host)
 - **Scripting:** Python, Bash
 - **Writing & Publishing:** Markdown + Substack
+- **AI Assistance:** Transparent use of AI tools for research, structure, and automation (see [AI-AGENT-POLICY](docs/00-meta/AI-AGENT-POLICY.md))
 
 ## Status
 
